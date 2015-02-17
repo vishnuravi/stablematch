@@ -1,7 +1,7 @@
 # stablematch
 Stable Matching Algorithm for the Hospital-Residents Problem
 
-The Hospital-Resident problem involves finding stable matches between residents (doctors) and hospitals. This program uses an extended version of the Gale-Shapley algorithm, originally developed by Rob Irving.
+The Hospital-Resident problem involves finding stable matches between residents (doctors) and hospitals. This program uses an extended version of the Gale-Shapley algorithm, originally developed by Rob Irving[1].
 
 #To build
 ```
@@ -20,3 +20,6 @@ Input is given as text on standard input as follows:
 - Lines N+2..M+N+1: the hospital preference lists, each has form X : P : A B C ..., where P is the number of positions available
 
 Sample data can be generated using the included script 'data/generate_preflists.py'.
+
+#References
+1. Dan Gusfield & Robert W. Irving, The Stable Marriage Problem: Structure and Algorithms (MIT Press)
