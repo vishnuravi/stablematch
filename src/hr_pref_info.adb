@@ -754,17 +754,17 @@ package body HR_Pref_Info is
          Proposer := I;
          Responder := Res_First_Choice(P, I);
          while Responder /= 0 and Proposer /= 0 loop
-            --Put_Name(Res_Table.Look_Up(Proposer));
-            --Put(" proposes to ");
-            --Put_Name(Hos_Table.Look_Up(Responder));
-            --New_Line;
+            Put_Name(Res_Table.Look_Up(Proposer));
+            Put(" proposes to ");
+            Put_Name(Hos_Table.Look_Up(Responder));
+            New_Line;
             Assign(P, Proposer, Responder);
             if P.Hos(Responder).Posts_Filled > P.Hos(Responder).Num_Posts then
                Next_Proposer := Hos_Last_Choice(P, Responder);
-               --Put_Name(Res_Table.Look_Up(Next_Proposer));
-               --Put(" rejected by ");
-               --Put_Name(Hos_Table.Look_Up(Responder));
-               --New_Line;
+               Put_Name(Res_Table.Look_Up(Next_Proposer));
+               Put(" rejected by ");
+               Put_Name(Hos_Table.Look_Up(Responder));
+               New_Line;
                R_Unassign(P, Next_Proposer, Responder);
             else
                Next_Proposer := 0;
@@ -773,10 +773,10 @@ package body HR_Pref_Info is
                Next := Successor_Resident(P, Responder, P.Hos(Responder).Last_Assignee);
                while Next /= 0 loop
                   Remove(P, Next, Responder);
-               --Put_Name(Res_Table.Look_Up(Next)); Put(' ');
-               --Put_Name(Hos_Table.Look_Up(Responder));
-               --Put(" removed");
-               --New_Line;
+               Put_Name(Res_Table.Look_Up(Next)); Put(' ');
+               Put_Name(Hos_Table.Look_Up(Responder));
+               Put(" removed");
+               New_Line;
                   Next := Successor_Resident(P, Responder, P.Hos(Responder).Last_Assignee);
                end loop;
             end if;
@@ -812,17 +812,17 @@ package body HR_Pref_Info is
          end if;
          while Responder /= 0 and then P.Hos(Proposer).Posts_Filled 
                                    < P.Hos(Proposer).Num_Posts loop
-            --Put_Name(Hos_Table.Look_Up(Proposer));
-            --Put(" proposes to ");
-            --Put_Name(Res_Table.Look_Up(Responder));
-            --New_Line;
+            Put_Name(Hos_Table.Look_Up(Proposer));
+            Put(" proposes to ");
+            Put_Name(Res_Table.Look_Up(Responder));
+            New_Line;
             Next := Successor_Hospital(P, Responder, Proposer);
             if P.Res(Responder).Assigned then
                Next_Proposer := Res_Last_Choice(P, Responder);
-               --Put_Name(Hos_Table.Look_Up(Next_Proposer));
-               --Put(" rejected by ");
-               --Put_Name(Res_Table.Look_Up(Responder));
-               --New_Line;
+               Put_Name(Hos_Table.Look_Up(Next_Proposer));
+               Put(" rejected by ");
+               Put_Name(Res_Table.Look_Up(Responder));
+               New_Line;
                H_Unassign(P, Responder, Next_Proposer);
                if P.Hos(Next_Proposer).Posts_Filled 
                         = P.Hos(Next_Proposer).Num_Posts - 1 then
