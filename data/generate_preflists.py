@@ -46,8 +46,7 @@ for this_resident in xrange(total_residents):
 		residentListOutput += resident_prefix + str(this_resident+1) + " :"
 		for rank in xrange(len(resident_prefs[this_resident])):
 			residentListOutput += " " + hospital_prefix  + str(resident_prefs[this_resident][rank]+1)
-			if rank == this_resident_rol_len-1:
-				residentListOutput += '\n'
+		residentListOutput += '\n'
 
 #hospitals rank residents that have 'applied'
 for this_hospital in xrange(total_hospitals):
@@ -61,8 +60,7 @@ for this_hospital in xrange(total_hospitals):
 		this_hospital_num_ranks = len(hospital_prefs[this_hospital])
 		for rank in xrange(this_hospital_num_ranks):
 			hospitalListOutput += " " + resident_prefix + str(hospital_prefs[this_hospital][rank]+1)
-			if rank == this_hospital_num_ranks-1:
-				hospitalListOutput += '\n'
+		hospitalListOutput += '\n'
 
 
 #print output
