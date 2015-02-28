@@ -616,9 +616,9 @@ package body HR_Pref_Info is
          Put_Name(Name_H);
          Put(")  ");
          -- write to file
-         Put(File, Put_Name(Name_I));
+         Put(File, Name_to_String(Name_I));
          Put(File, ",");
-         Put(File, Put_Name(Name_H));
+         Put(File, Name_to_String(Name_H));
          New_Line(File);
       end loop;
       Close (File);

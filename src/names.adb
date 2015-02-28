@@ -57,6 +57,12 @@ package body Names is
    end Put_Name;
    ---------------------------------------------------------
 
+   ---------------------------------------------------------
+   function Name_to_String(Name : in Name_Type) return String is
+   begin
+      return Name.Letters(1..Name.Len);
+   end Name_to_String;
+
    ---------------------------------------------------------   
    function Length(Name : Name_Type) return Natural is
    begin
