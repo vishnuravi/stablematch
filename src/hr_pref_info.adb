@@ -594,7 +594,7 @@ package body HR_Pref_Info is
       Name_H : Name_Type;
       File : Ada.Text_IO.File_Type;  
    begin
-      Create(File, Name => "output");
+      Create(File, Name => "output_ro");
       for K in 1..Num_Residents loop
          I := Res_Table.Get_True_Entry(K);
          Name_I := Res_Table.Look_Up(I);
@@ -632,9 +632,12 @@ package body HR_Pref_Info is
      H      : Hospital_Index;  
       Cols, I   : Natural      := 0;  
       Name_I,  
-      Name_H : Name_Type;  
-   begin
+      Name_H : Name_Type; 
+      File : Ada.Text_IO.File_Type; 
    
+   begin
+   Create(File, Name => "output_ho");   
+
        -- to be inserted: listing the matching hospital by hospital
         
       for K in 1..Num_Residents loop
@@ -651,12 +654,19 @@ package body HR_Pref_Info is
             New_Line;
          end if;
          Cols := Cols + Length(Name_I) + Length(Name_H) + 5;
-         Put('(');
+         -- Output to console
+	 Put('(');
          Put_Name(Name_I);
          Put(',');
          Put_Name(Name_H);
          Put(")  ");
+	 -- Output to file
+	 Put(File, Name_to_String(Name_I));
+	 Put(File, ",");
+	 Put(File, Name_to_String(Name_H));
+	 New_Line(File);
       end loop;
+      Close(File);
    end List_H_Opt_Matching;
    --------------------------------------------------------
 

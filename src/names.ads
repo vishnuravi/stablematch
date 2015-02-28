@@ -23,11 +23,16 @@ package Names is
    procedure Put_Name(Name : in Name_Type);
    -- Writes Name to standard output
    
+   function Name_To_String(Name : Name_Type) return String;
+   -- returns Name as a String
+
    function Length(Name : Name_Type) return Natural;
    -- returns the length of Name
    
    function ">" (N1, N2 : Name_Type) return Boolean;
    -- lexicographic comparison
+
+
    
 private
 
