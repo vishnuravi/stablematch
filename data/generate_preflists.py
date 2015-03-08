@@ -37,6 +37,7 @@ hospital_prefs = [[] for _ in xrange(total_hospitals)]
 
 #residents 'apply' to hospitals
 for this_resident in xrange(total_residents):
+		print 'Generating Resident Pref List ' + str(this_resident)
 		hospitals_randomized = list(range(total_hospitals))
 		random.shuffle(hospitals_randomized)
 		this_resident_rol_len = int(random.normalvariate(resident_rol_len, resident_rol_sd))
@@ -50,6 +51,7 @@ for this_resident in xrange(total_residents):
 
 #hospitals rank residents that have 'applied'
 for this_hospital in xrange(total_hospitals):
+		print 'Generating Hospital Pref List ' + str(this_hospital)
 		for resident in resident_prefs:
 			if this_hospital in resident:
 				hospital_prefs[this_hospital].append(resident_prefs.index(resident))
@@ -63,9 +65,9 @@ for this_hospital in xrange(total_hospitals):
 		hospitalListOutput += '\n'
 
 
-#print output
+
 output += str(total_residents) + " " + str(total_hospitals) + "\n" + residentListOutput + hospitalListOutput
-print output
+
 
 #write output to a file
 datafile = open(output_file, "w")
