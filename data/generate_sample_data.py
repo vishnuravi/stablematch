@@ -1,10 +1,10 @@
 #!/usr/bin/python
 
 '''
-Generates set of preference lists for Irving hospital-resident matching algorithm
+Generates set of sample resident and hospital preference lists for Irving hospital-resident matching algorithm
 Author: Vishnu Ravi
 
-Output:
+Output file is generated as follows:
 - Line 1: N, M, positive integers, numbers of residents and hospitals respectively
 - Lines 2..N+1: the resident preference lists, each has form X : A B C ...
 - Lines N+2..M+N+1: the hospital preference lists, each has form X : P : A B C ...
@@ -17,13 +17,14 @@ import random
 #configure the data set
 total_residents = 100
 total_hospitals = 100
-resident_rol_len = 10 #average length of resident preference list
-resident_rol_sd = 3 #standard deviation of resident preference list 
+resident_rol_len = 10 #average resident preference list length (number of hospitals ranked by residents)
+resident_rol_sd = 3 #standard deviation of resident preference list length
 hospital_num_positions = 6 #average number of positions per hospital
 hospital_num_positions_sd = 2 #standard deviation of positions per hospital
-hospital_prefix = 'H'
-resident_prefix = 'R'
+hospital_prefix = 'H' #prefix added to hospital ID number in sample data set
+resident_prefix = 'R' #prefix added to resident ID number in sample data set
 output_file = 'data.txt'
+#end configuration
 
 
 output = '' 
@@ -69,10 +70,7 @@ for this_hospital in xrange(total_hospitals):
 output += str(total_residents) + " " + str(total_hospitals) + "\n" + residentListOutput + hospitalListOutput
 
 
-#write output to a file
+#write output to output_file
 datafile = open(output_file, "w")
 datafile.write(output)
 datafile.close()
-
-
-
