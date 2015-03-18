@@ -26,8 +26,6 @@ Input is given as text on standard input as follows:
 - Lines 2..N+1: the resident preference lists, each has form X : A B C ...
 - Lines N+2..M+N+1: the hospital preference lists, each has form X : P : A B C ..., where P is the number of positions available
 
-Sample data can be generated using the script *generate_preflists.py* in the *data* folder.
-
 #Output
 Output is given as a list of matched pairs in the form (Resident,Hospital) saved to file as *output_ro* (resident-optimal) and *output_ho* (hospital-optimal).
 
