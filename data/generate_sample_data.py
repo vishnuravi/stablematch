@@ -17,14 +17,14 @@ import random, time, sys, math
 def main():
 
 	#edit the values below to configure the data set
-	total_residents = 3000
-	total_hospitals = 3000
+	total_residents = 100
+	total_hospitals = 100
 	resident_rol_len = 10 #average resident preference list length (number of hospitals ranked by residents)
 	resident_rol_sd = 3 #standard deviation of resident preference list length
 	hospital_num_positions = 6 #average number of positions per hospital
 	hospital_num_positions_sd = 2 #standard deviation of positions per hospital
-	hospital_prefix = 'H' #prefix added to hospital ID number in sample data set
-	resident_prefix = 'R' #prefix added to resident ID number in sample data set
+	hospital_prefix = 'Hospital-' #prefix added to hospital ID number in sample data set
+	resident_prefix = 'Resident-' #prefix added to resident ID number in sample data set
 	output_file = 'data.txt'
 	#stop editing here
 
