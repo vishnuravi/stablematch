@@ -5,7 +5,7 @@ The Hospital-Resident problem involves finding stable matches between residents 
 
 #To build
 ```
-gnatmake src/solve_hr.adb
+gnatmake src/stablematch.adb
 ```
 
 #To generate sample data
@@ -17,7 +17,7 @@ python data/generate_sample_data.py
 
 #To run
 ```
-./solve_hr < data.txt
+./stablematch < data.txt
 ```
 
 #Input
