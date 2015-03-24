@@ -1,0 +1,201 @@
+100 100
+Resident-0 : Hospital-91 Hospital-15 Hospital-97 Hospital-3 Hospital-16 Hospital-40 Hospital-90 Hospital-8
+Resident-1 : Hospital-73 Hospital-1 Hospital-45 Hospital-28 Hospital-23 Hospital-43 Hospital-44 Hospital-31 Hospital-22 Hospital-17 Hospital-9 Hospital-10
+Resident-2 : Hospital-32 Hospital-57 Hospital-47 Hospital-26 Hospital-22 Hospital-40
+Resident-3 : Hospital-76 Hospital-1 Hospital-58 Hospital-33 Hospital-85 Hospital-22
+Resident-4 : Hospital-93 Hospital-56 Hospital-58 Hospital-75 Hospital-9 Hospital-13 Hospital-54 Hospital-7 Hospital-15 Hospital-45
+Resident-5 : Hospital-51 Hospital-76 Hospital-30 Hospital-66 Hospital-93 Hospital-74 Hospital-68 Hospital-28
+Resident-6 : Hospital-25 Hospital-74 Hospital-55 Hospital-1 Hospital-21 Hospital-94 Hospital-14
+Resident-7 : Hospital-57 Hospital-46 Hospital-48 Hospital-83 Hospital-73 Hospital-61 Hospital-86 Hospital-10 Hospital-7 Hospital-12
+Resident-8 : Hospital-95 Hospital-9 Hospital-83 Hospital-0 Hospital-93
+Resident-9 : Hospital-71 Hospital-5 Hospital-26 Hospital-49 Hospital-32 Hospital-62
+Resident-10 : Hospital-53 Hospital-69 Hospital-44 Hospital-52 Hospital-59 Hospital-66 Hospital-47
+Resident-11 : Hospital-98 Hospital-73 Hospital-94 Hospital-50 Hospital-96 Hospital-63 Hospital-20 Hospital-14 Hospital-2 Hospital-39 Hospital-46 Hospital-8 Hospital-71
+Resident-12 : Hospital-5 Hospital-4 Hospital-14 Hospital-99 Hospital-66 Hospital-84 Hospital-57 Hospital-32 Hospital-26 Hospital-8 Hospital-3
+Resident-13 : Hospital-98 Hospital-45 Hospital-19 Hospital-0 Hospital-48 Hospital-8 Hospital-77 Hospital-59 Hospital-84 Hospital-66 Hospital-89 Hospital-36 Hospital-86 Hospital-32
+Resident-14 : Hospital-29 Hospital-13 Hospital-43 Hospital-39 Hospital-55 Hospital-11 Hospital-7 Hospital-61
+Resident-15 : Hospital-64 Hospital-7 Hospital-9 Hospital-28 Hospital-39 Hospital-17 Hospital-65 Hospital-52 Hospital-19
+Resident-16 : Hospital-8 Hospital-96 Hospital-86 Hospital-13 Hospital-2 Hospital-70 Hospital-55 Hospital-36 Hospital-4 Hospital-0 Hospital-90
+Resident-17 : Hospital-63 Hospital-94 Hospital-11 Hospital-40 Hospital-21 Hospital-31 Hospital-35 Hospital-15 Hospital-82
+Resident-18 : Hospital-77 Hospital-65 Hospital-20 Hospital-57 Hospital-75
+Resident-19 : Hospital-13 Hospital-36 Hospital-95 Hospital-71 Hospital-55 Hospital-61
+Resident-20 : Hospital-45 Hospital-14 Hospital-87 Hospital-22 Hospital-88 Hospital-67 Hospital-26
+Resident-21 : Hospital-19 Hospital-12 Hospital-51 Hospital-75 Hospital-79 Hospital-72 Hospital-77 Hospital-32
+Resident-22 : Hospital-92 Hospital-85 Hospital-38 Hospital-44 Hospital-31 Hospital-25 Hospital-58 Hospital-53 Hospital-30 Hospital-47 Hospital-19 Hospital-46 Hospital-74
+Resident-23 : Hospital-26 Hospital-12 Hospital-56 Hospital-32 Hospital-46 Hospital-10 Hospital-98 Hospital-53 Hospital-57
+Resident-24 : Hospital-31 Hospital-64 Hospital-78 Hospital-27 Hospital-28 Hospital-91 Hospital-0 Hospital-83
+Resident-25 : Hospital-66 Hospital-53 Hospital-61 Hospital-56 Hospital-28 Hospital-91 Hospital-63 Hospital-99 Hospital-49 Hospital-43 Hospital-37
+Resident-26 : Hospital-21 Hospital-95 Hospital-37 Hospital-65 Hospital-14 Hospital-30 Hospital-18 Hospital-53
+Resident-27 : Hospital-93 Hospital-68 Hospital-98 Hospital-55 Hospital-63 Hospital-0 Hospital-45 Hospital-56 Hospital-10 Hospital-8
+Resident-28 : Hospital-78 Hospital-89 Hospital-40 Hospital-53 Hospital-90 Hospital-43 Hospital-7 Hospital-31 Hospital-50
+Resident-29 : Hospital-93 Hospital-9 Hospital-91 Hospital-63 Hospital-14 Hospital-11 Hospital-21 Hospital-77 Hospital-43 Hospital-8 Hospital-30 Hospital-69 Hospital-5
+Resident-30 : Hospital-11 Hospital-75 Hospital-56 Hospital-83 Hospital-6 Hospital-51 Hospital-18 Hospital-3 Hospital-14 Hospital-1 Hospital-43 Hospital-82 Hospital-50
+Resident-31 : Hospital-72 Hospital-68 Hospital-51 Hospital-37 Hospital-61 Hospital-46 Hospital-92 Hospital-43 Hospital-0 Hospital-13 Hospital-20 Hospital-10 Hospital-79 Hospital-32 Hospital-82
+Resident-32 : Hospital-26 Hospital-46 Hospital-3 Hospital-20 Hospital-21 Hospital-47 Hospital-15 Hospital-63 Hospital-96
+Resident-33 : Hospital-14 Hospital-34 Hospital-82 Hospital-54 Hospital-84 Hospital-42 Hospital-46 Hospital-4 Hospital-55 Hospital-3 Hospital-30 Hospital-32
+Resident-34 : Hospital-75 Hospital-30 Hospital-6 Hospital-85 Hospital-89 Hospital-12
+Resident-35 : Hospital-8 Hospital-98 Hospital-78 Hospital-23 Hospital-18 Hospital-13 Hospital-0 Hospital-53 Hospital-63 Hospital-55 Hospital-54 Hospital-93 Hospital-83 Hospital-59
+Resident-36 : Hospital-34 Hospital-38 Hospital-90 Hospital-20 Hospital-98 Hospital-79 Hospital-7 Hospital-33 Hospital-80 Hospital-41
+Resident-37 : Hospital-40 Hospital-95 Hospital-47 Hospital-97 Hospital-72 Hospital-23 Hospital-90 Hospital-36
+Resident-38 : Hospital-69 Hospital-72 Hospital-75 Hospital-61 Hospital-53 Hospital-38 Hospital-9 Hospital-57
+Resident-39 : Hospital-8 Hospital-81 Hospital-30 Hospital-4 Hospital-59 Hospital-15 Hospital-71 Hospital-43 Hospital-20 Hospital-68 Hospital-87
+Resident-40 : Hospital-52 Hospital-23 Hospital-81 Hospital-39 Hospital-63 Hospital-2 Hospital-38 Hospital-97 Hospital-82 Hospital-41 Hospital-85
+Resident-41 : Hospital-44 Hospital-90 Hospital-49 Hospital-86 Hospital-85 Hospital-48 Hospital-70 Hospital-1 Hospital-46
+Resident-42 : Hospital-99 Hospital-85 Hospital-91 Hospital-87 Hospital-49 Hospital-45 Hospital-6 Hospital-56 Hospital-57 Hospital-5 Hospital-19
+Resident-43 : Hospital-51 Hospital-36 Hospital-64 Hospital-41 Hospital-48 Hospital-7 Hospital-60 Hospital-95 Hospital-92
+Resident-44 : Hospital-63 Hospital-33 Hospital-59 Hospital-44 Hospital-34 Hospital-58 Hospital-93 Hospital-77 Hospital-56
+Resident-45 : Hospital-4 Hospital-80 Hospital-82 Hospital-45 Hospital-75 Hospital-72 Hospital-64 Hospital-85 Hospital-83 Hospital-66 Hospital-54 Hospital-35 Hospital-57
+Resident-46 : Hospital-23 Hospital-40 Hospital-74 Hospital-47 Hospital-37 Hospital-64 Hospital-46 Hospital-94 Hospital-82 Hospital-18 Hospital-97 Hospital-95
+Resident-47 : Hospital-11 Hospital-57 Hospital-90 Hospital-58 Hospital-9 Hospital-31 Hospital-2 Hospital-53 Hospital-37
+Resident-48 : Hospital-60 Hospital-28 Hospital-3 Hospital-23 Hospital-79 Hospital-95 Hospital-92 Hospital-62 Hospital-25 Hospital-69 Hospital-83
+Resident-49 : Hospital-76 Hospital-59 Hospital-16 Hospital-71 Hospital-61 Hospital-73 Hospital-82 Hospital-75 Hospital-68 Hospital-62
+Resident-50 : Hospital-32 Hospital-36 Hospital-53 Hospital-44 Hospital-43 Hospital-25 Hospital-84 Hospital-99 Hospital-85 Hospital-63 Hospital-46 Hospital-12
+Resident-51 : Hospital-33 Hospital-31 Hospital-6 Hospital-97 Hospital-56 Hospital-22 Hospital-68 Hospital-81 Hospital-14
+Resident-52 : Hospital-71 Hospital-20 Hospital-48 Hospital-30 Hospital-6 Hospital-67 Hospital-91 Hospital-17 Hospital-34 Hospital-9 Hospital-66 Hospital-85
+Resident-53 : Hospital-97 Hospital-16 Hospital-2 Hospital-8 Hospital-54
+Resident-54 : Hospital-39 Hospital-42 Hospital-14 Hospital-33 Hospital-51 Hospital-92 Hospital-99 Hospital-79 Hospital-7 Hospital-49
+Resident-55 : Hospital-79 Hospital-22 Hospital-33 Hospital-82 Hospital-2 Hospital-80 Hospital-8 Hospital-63 Hospital-50 Hospital-45 Hospital-39 Hospital-41 Hospital-74 Hospital-57
+Resident-56 : Hospital-11 Hospital-14 Hospital-25 Hospital-81 Hospital-52 Hospital-68 Hospital-15 Hospital-76 Hospital-19 Hospital-20 Hospital-84
+Resident-57 : Hospital-67 Hospital-1 Hospital-47 Hospital-96 Hospital-93 Hospital-4 Hospital-70 Hospital-59
+Resident-58 : Hospital-87 Hospital-20 Hospital-60 Hospital-13 Hospital-9 Hospital-59 Hospital-1 Hospital-51 Hospital-61
+Resident-59 : Hospital-60 Hospital-36 Hospital-75 Hospital-3 Hospital-29 Hospital-41 Hospital-50 Hospital-24 Hospital-1 Hospital-96 Hospital-66 Hospital-30
+Resident-60 : Hospital-18 Hospital-16 Hospital-57 Hospital-72 Hospital-3 Hospital-69 Hospital-12 Hospital-8 Hospital-23 Hospital-80 Hospital-50
+Resident-61 : Hospital-37 Hospital-22 Hospital-13 Hospital-59 Hospital-42 Hospital-23 Hospital-93 Hospital-48 Hospital-85
+Resident-62 : Hospital-38 Hospital-25 Hospital-55 Hospital-71 Hospital-57 Hospital-33 Hospital-9 Hospital-35 Hospital-69
+Resident-63 : Hospital-90 Hospital-59 Hospital-24 Hospital-49 Hospital-19 Hospital-10 Hospital-81 Hospital-54
+Resident-64 : Hospital-63 Hospital-54 Hospital-74 Hospital-18 Hospital-24 Hospital-98
+Resident-65 : Hospital-62 Hospital-79 Hospital-24 Hospital-59 Hospital-9 Hospital-28 Hospital-72 Hospital-76 Hospital-21 Hospital-10 Hospital-37 Hospital-42 Hospital-54
+Resident-66 : Hospital-64 Hospital-82 Hospital-19 Hospital-99 Hospital-52 Hospital-79 Hospital-34 Hospital-23 Hospital-75 Hospital-71
+Resident-67 : Hospital-65 Hospital-77 Hospital-61 Hospital-4 Hospital-92 Hospital-81 Hospital-85 Hospital-84 Hospital-48
+Resident-68 : Hospital-93 Hospital-18 Hospital-72
+Resident-69 : Hospital-51 Hospital-66 Hospital-49 Hospital-95 Hospital-81 Hospital-30 Hospital-99 Hospital-39 Hospital-55 Hospital-13 Hospital-78
+Resident-70 : Hospital-72 Hospital-37 Hospital-84 Hospital-98 Hospital-90 Hospital-69 Hospital-87 Hospital-19 Hospital-51 Hospital-57 Hospital-25 Hospital-81 Hospital-0
+Resident-71 : Hospital-30 Hospital-37 Hospital-31 Hospital-97 Hospital-60 Hospital-40 Hospital-51 Hospital-16 Hospital-94 Hospital-90 Hospital-18 Hospital-11 Hospital-44 Hospital-49 Hospital-67 Hospital-88
+Resident-72 : Hospital-46 Hospital-76
+Resident-73 : Hospital-89 Hospital-37 Hospital-18 Hospital-84 Hospital-66 Hospital-61 Hospital-21 Hospital-88 Hospital-26 Hospital-25 Hospital-60
+Resident-74 : Hospital-89 Hospital-59 Hospital-57 Hospital-66 Hospital-48 Hospital-44
+Resident-75 : Hospital-5 Hospital-86 Hospital-81 Hospital-74 Hospital-51 Hospital-57 Hospital-87 Hospital-11
+Resident-76 : Hospital-57 Hospital-41 Hospital-42 Hospital-39 Hospital-54 Hospital-72
+Resident-77 : Hospital-10 Hospital-8 Hospital-7 Hospital-65 Hospital-97 Hospital-61 Hospital-95 Hospital-34
+Resident-78 : Hospital-47 Hospital-71 Hospital-36 Hospital-72 Hospital-96 Hospital-12 Hospital-19 Hospital-35 Hospital-44 Hospital-66 Hospital-53
+Resident-79 : Hospital-21 Hospital-66 Hospital-63 Hospital-16 Hospital-34 Hospital-51
+Resident-80 : Hospital-64 Hospital-93 Hospital-70 Hospital-49 Hospital-78 Hospital-56 Hospital-88 Hospital-15 Hospital-65 Hospital-81 Hospital-38 Hospital-7
+Resident-81 : Hospital-32 Hospital-21 Hospital-75 Hospital-73 Hospital-99 Hospital-30 Hospital-45 Hospital-7 Hospital-84
+Resident-82 : Hospital-91 Hospital-12 Hospital-4 Hospital-51 Hospital-74 Hospital-61 Hospital-43 Hospital-78 Hospital-19 Hospital-23 Hospital-92 Hospital-57
+Resident-83 : Hospital-26 Hospital-61 Hospital-94 Hospital-97 Hospital-48 Hospital-59 Hospital-76
+Resident-84 : Hospital-10 Hospital-58 Hospital-3 Hospital-28 Hospital-41 Hospital-85 Hospital-94 Hospital-89 Hospital-60
+Resident-85 : Hospital-10 Hospital-89 Hospital-1 Hospital-92 Hospital-77 Hospital-61
+Resident-86 : Hospital-71 Hospital-76 Hospital-29 Hospital-87 Hospital-22 Hospital-86 Hospital-24 Hospital-44 Hospital-38 Hospital-90 Hospital-19 Hospital-54
+Resident-87 : Hospital-29 Hospital-48 Hospital-30 Hospital-72 Hospital-27 Hospital-3
+Resident-88 : Hospital-25 Hospital-95 Hospital-14 Hospital-12 Hospital-73 Hospital-32 Hospital-36 Hospital-28 Hospital-60
+Resident-89 : Hospital-21 Hospital-25 Hospital-85 Hospital-56 Hospital-82 Hospital-55 Hospital-71 Hospital-14 Hospital-44 Hospital-40 Hospital-48 Hospital-34 Hospital-96
+Resident-90 : Hospital-35 Hospital-27 Hospital-56 Hospital-12 Hospital-36 Hospital-17 Hospital-39 Hospital-87 Hospital-98 Hospital-73
+Resident-91 : Hospital-12 Hospital-72 Hospital-0 Hospital-91 Hospital-6 Hospital-65 Hospital-8 Hospital-75 Hospital-50 Hospital-73 Hospital-1 Hospital-90 Hospital-97 Hospital-21 Hospital-27
+Resident-92 : Hospital-91 Hospital-18 Hospital-50 Hospital-72 Hospital-75 Hospital-67 Hospital-73 Hospital-5 Hospital-81 Hospital-49 Hospital-68
+Resident-93 : Hospital-74 Hospital-19 Hospital-1 Hospital-82 Hospital-78 Hospital-26 Hospital-66 Hospital-34 Hospital-56 Hospital-18 Hospital-29 Hospital-14 Hospital-0 Hospital-41
+Resident-94 : Hospital-20 Hospital-6 Hospital-64 Hospital-23 Hospital-62 Hospital-4 Hospital-52
+Resident-95 : Hospital-33 Hospital-71 Hospital-84 Hospital-91 Hospital-4 Hospital-44 Hospital-7
+Resident-96 : Hospital-71 Hospital-51 Hospital-90 Hospital-75 Hospital-30 Hospital-80 Hospital-34 Hospital-64
+Resident-97 : Hospital-78 Hospital-88 Hospital-5 Hospital-94 Hospital-13 Hospital-1 Hospital-43 Hospital-42 Hospital-9 Hospital-3 Hospital-86 Hospital-10 Hospital-75
+Resident-98 : Hospital-94 Hospital-71 Hospital-75 Hospital-39 Hospital-26 Hospital-79 Hospital-15
+Resident-99 : Hospital-67 Hospital-20 Hospital-39 Hospital-82 Hospital-47 Hospital-42 Hospital-80 Hospital-23
+Hospital-0 : 4 : Resident-8 Resident-13 Resident-16 Resident-24 Resident-27 Resident-31 Resident-35 Resident-70 Resident-91 Resident-93
+Hospital-1 : 5 : Resident-1 Resident-3 Resident-6 Resident-30 Resident-41 Resident-57 Resident-58 Resident-59 Resident-85 Resident-91 Resident-93 Resident-97
+Hospital-2 : 7 : Resident-11 Resident-16 Resident-40 Resident-47 Resident-53 Resident-55
+Hospital-3 : 10 : Resident-0 Resident-12 Resident-30 Resident-32 Resident-33 Resident-48 Resident-59 Resident-60 Resident-84 Resident-87 Resident-97
+Hospital-4 : 5 : Resident-12 Resident-16 Resident-33 Resident-39 Resident-45 Resident-57 Resident-67 Resident-82 Resident-94 Resident-95
+Hospital-5 : 5 : Resident-9 Resident-12 Resident-29 Resident-42 Resident-75 Resident-92 Resident-97
+Hospital-6 : 7 : Resident-30 Resident-34 Resident-42 Resident-51 Resident-52 Resident-91 Resident-94
+Hospital-7 : 5 : Resident-4 Resident-7 Resident-14 Resident-15 Resident-28 Resident-36 Resident-43 Resident-54 Resident-77 Resident-80 Resident-81 Resident-95
+Hospital-8 : 5 : Resident-0 Resident-11 Resident-12 Resident-13 Resident-16 Resident-27 Resident-29 Resident-35 Resident-39 Resident-53 Resident-55 Resident-60 Resident-77 Resident-91
+Hospital-9 : 8 : Resident-1 Resident-4 Resident-8 Resident-15 Resident-29 Resident-38 Resident-47 Resident-52 Resident-58 Resident-62 Resident-65 Resident-97
+Hospital-10 : 11 : Resident-1 Resident-7 Resident-23 Resident-27 Resident-31 Resident-63 Resident-65 Resident-77 Resident-84 Resident-85 Resident-97
+Hospital-11 : 4 : Resident-14 Resident-17 Resident-29 Resident-30 Resident-47 Resident-56 Resident-71 Resident-75
+Hospital-12 : 8 : Resident-7 Resident-21 Resident-23 Resident-34 Resident-50 Resident-60 Resident-78 Resident-82 Resident-88 Resident-90 Resident-91
+Hospital-13 : 6 : Resident-4 Resident-14 Resident-16 Resident-19 Resident-31 Resident-35 Resident-58 Resident-61 Resident-69 Resident-97
+Hospital-14 : 8 : Resident-6 Resident-11 Resident-12 Resident-20 Resident-26 Resident-29 Resident-30 Resident-33 Resident-51 Resident-54 Resident-56 Resident-88 Resident-89 Resident-93
+Hospital-15 : 1 : Resident-0 Resident-4 Resident-17 Resident-32 Resident-39 Resident-56 Resident-80 Resident-98
+Hospital-16 : 2 : Resident-0 Resident-49 Resident-53 Resident-60 Resident-71 Resident-79
+Hospital-17 : 5 : Resident-1 Resident-15 Resident-52 Resident-90
+Hospital-18 : 6 : Resident-26 Resident-30 Resident-35 Resident-46 Resident-60 Resident-64 Resident-68 Resident-71 Resident-73 Resident-92 Resident-93
+Hospital-19 : 4 : Resident-13 Resident-15 Resident-21 Resident-22 Resident-42 Resident-56 Resident-63 Resident-66 Resident-70 Resident-78 Resident-82 Resident-86 Resident-93
+Hospital-20 : 6 : Resident-11 Resident-18 Resident-31 Resident-32 Resident-36 Resident-39 Resident-52 Resident-56 Resident-58 Resident-94 Resident-99
+Hospital-21 : 4 : Resident-6 Resident-17 Resident-26 Resident-29 Resident-32 Resident-65 Resident-73 Resident-79 Resident-81 Resident-89 Resident-91
+Hospital-22 : 6 : Resident-1 Resident-2 Resident-3 Resident-20 Resident-51 Resident-55 Resident-61 Resident-86
+Hospital-23 : 5 : Resident-1 Resident-35 Resident-37 Resident-40 Resident-46 Resident-48 Resident-60 Resident-61 Resident-66 Resident-82 Resident-94 Resident-99
+Hospital-24 : 4 : Resident-59 Resident-63 Resident-64 Resident-65 Resident-86
+Hospital-25 : 8 : Resident-6 Resident-22 Resident-48 Resident-50 Resident-56 Resident-62 Resident-70 Resident-73 Resident-88 Resident-89
+Hospital-26 : 7 : Resident-2 Resident-9 Resident-12 Resident-20 Resident-23 Resident-32 Resident-73 Resident-83 Resident-93 Resident-98
+Hospital-27 : 7 : Resident-24 Resident-87 Resident-90 Resident-91
+Hospital-28 : 5 : Resident-1 Resident-5 Resident-15 Resident-24 Resident-25 Resident-48 Resident-65 Resident-84 Resident-88
+Hospital-29 : 8 : Resident-14 Resident-59 Resident-86 Resident-87 Resident-93
+Hospital-30 : 5 : Resident-5 Resident-22 Resident-26 Resident-29 Resident-33 Resident-34 Resident-39 Resident-52 Resident-59 Resident-69 Resident-71 Resident-81 Resident-87 Resident-96
+Hospital-31 : 5 : Resident-1 Resident-17 Resident-22 Resident-24 Resident-28 Resident-47 Resident-51 Resident-71
+Hospital-32 : 2 : Resident-2 Resident-9 Resident-12 Resident-13 Resident-21 Resident-23 Resident-31 Resident-33 Resident-50 Resident-81 Resident-88
+Hospital-33 : 6 : Resident-3 Resident-36 Resident-44 Resident-51 Resident-54 Resident-55 Resident-62 Resident-95
+Hospital-34 : 6 : Resident-33 Resident-36 Resident-44 Resident-52 Resident-66 Resident-77 Resident-79 Resident-89 Resident-93 Resident-96
+Hospital-35 : 10 : Resident-17 Resident-45 Resident-62 Resident-78 Resident-90
+Hospital-36 : 6 : Resident-13 Resident-16 Resident-19 Resident-37 Resident-43 Resident-50 Resident-59 Resident-78 Resident-88 Resident-90
+Hospital-37 : 3 : Resident-25 Resident-26 Resident-31 Resident-46 Resident-47 Resident-61 Resident-65 Resident-70 Resident-71 Resident-73
+Hospital-38 : 4 : Resident-22 Resident-36 Resident-38 Resident-40 Resident-62 Resident-80 Resident-86
+Hospital-39 : 5 : Resident-11 Resident-14 Resident-15 Resident-40 Resident-54 Resident-55 Resident-69 Resident-76 Resident-90 Resident-98 Resident-99
+Hospital-40 : 7 : Resident-0 Resident-2 Resident-17 Resident-28 Resident-37 Resident-46 Resident-71 Resident-89
+Hospital-41 : 5 : Resident-36 Resident-40 Resident-43 Resident-55 Resident-59 Resident-76 Resident-84 Resident-93
+Hospital-42 : 2 : Resident-33 Resident-54 Resident-61 Resident-65 Resident-76 Resident-97 Resident-99
+Hospital-43 : 10 : Resident-1 Resident-14 Resident-25 Resident-28 Resident-29 Resident-30 Resident-31 Resident-39 Resident-50 Resident-82 Resident-97
+Hospital-44 : 9 : Resident-1 Resident-10 Resident-22 Resident-41 Resident-44 Resident-50 Resident-71 Resident-74 Resident-78 Resident-86 Resident-89 Resident-95
+Hospital-45 : 5 : Resident-1 Resident-4 Resident-13 Resident-20 Resident-27 Resident-42 Resident-45 Resident-55 Resident-81
+Hospital-46 : 3 : Resident-7 Resident-11 Resident-22 Resident-23 Resident-31 Resident-32 Resident-33 Resident-41 Resident-46 Resident-50 Resident-72
+Hospital-47 : 7 : Resident-2 Resident-10 Resident-22 Resident-32 Resident-37 Resident-46 Resident-57 Resident-78 Resident-99
+Hospital-48 : 6 : Resident-7 Resident-13 Resident-41 Resident-43 Resident-52 Resident-61 Resident-67 Resident-74 Resident-83 Resident-87 Resident-89
+Hospital-49 : 3 : Resident-9 Resident-25 Resident-41 Resident-42 Resident-54 Resident-63 Resident-69 Resident-71 Resident-80 Resident-92
+Hospital-50 : 7 : Resident-11 Resident-28 Resident-30 Resident-55 Resident-59 Resident-60 Resident-91 Resident-92
+Hospital-51 : 5 : Resident-5 Resident-21 Resident-30 Resident-31 Resident-43 Resident-54 Resident-58 Resident-69 Resident-70 Resident-71 Resident-75 Resident-79 Resident-82 Resident-96
+Hospital-52 : 5 : Resident-10 Resident-15 Resident-40 Resident-56 Resident-66 Resident-94
+Hospital-53 : 1 : Resident-10 Resident-22 Resident-23 Resident-25 Resident-26 Resident-28 Resident-35 Resident-38 Resident-47 Resident-50 Resident-78
+Hospital-54 : 6 : Resident-4 Resident-33 Resident-35 Resident-45 Resident-53 Resident-63 Resident-64 Resident-65 Resident-76 Resident-86
+Hospital-55 : 6 : Resident-6 Resident-14 Resident-16 Resident-19 Resident-27 Resident-33 Resident-35 Resident-62 Resident-69 Resident-89
+Hospital-56 : 4 : Resident-4 Resident-23 Resident-25 Resident-27 Resident-30 Resident-42 Resident-44 Resident-51 Resident-80 Resident-89 Resident-90 Resident-93
+Hospital-57 : 5 : Resident-2 Resident-7 Resident-12 Resident-18 Resident-23 Resident-38 Resident-42 Resident-45 Resident-47 Resident-55 Resident-60 Resident-62 Resident-70 Resident-74 Resident-75 Resident-76 Resident-82
+Hospital-58 : 6 : Resident-3 Resident-4 Resident-22 Resident-44 Resident-47 Resident-84
+Hospital-59 : 7 : Resident-10 Resident-13 Resident-35 Resident-39 Resident-44 Resident-49 Resident-57 Resident-58 Resident-61 Resident-63 Resident-65 Resident-74 Resident-83
+Hospital-60 : 4 : Resident-43 Resident-48 Resident-58 Resident-59 Resident-71 Resident-73 Resident-84 Resident-88
+Hospital-61 : 3 : Resident-7 Resident-14 Resident-19 Resident-25 Resident-31 Resident-38 Resident-49 Resident-58 Resident-67 Resident-73 Resident-77 Resident-82 Resident-83 Resident-85
+Hospital-62 : 4 : Resident-9 Resident-48 Resident-49 Resident-65 Resident-94
+Hospital-63 : 9 : Resident-11 Resident-17 Resident-25 Resident-27 Resident-29 Resident-32 Resident-35 Resident-40 Resident-44 Resident-50 Resident-55 Resident-64 Resident-79
+Hospital-64 : 8 : Resident-15 Resident-24 Resident-43 Resident-45 Resident-46 Resident-66 Resident-80 Resident-94 Resident-96
+Hospital-65 : 6 : Resident-15 Resident-18 Resident-26 Resident-67 Resident-77 Resident-80 Resident-91
+Hospital-66 : 8 : Resident-5 Resident-10 Resident-12 Resident-13 Resident-25 Resident-45 Resident-52 Resident-59 Resident-69 Resident-73 Resident-74 Resident-78 Resident-79 Resident-93
+Hospital-67 : 7 : Resident-20 Resident-52 Resident-57 Resident-71 Resident-92 Resident-99
+Hospital-68 : 4 : Resident-5 Resident-27 Resident-31 Resident-39 Resident-49 Resident-51 Resident-56 Resident-92
+Hospital-69 : 6 : Resident-10 Resident-29 Resident-38 Resident-48 Resident-60 Resident-62 Resident-70
+Hospital-70 : 6 : Resident-16 Resident-41 Resident-57 Resident-80
+Hospital-71 : 7 : Resident-9 Resident-11 Resident-19 Resident-39 Resident-49 Resident-52 Resident-62 Resident-66 Resident-78 Resident-86 Resident-89 Resident-95 Resident-96 Resident-98
+Hospital-72 : 5 : Resident-21 Resident-31 Resident-37 Resident-38 Resident-45 Resident-60 Resident-65 Resident-68 Resident-70 Resident-76 Resident-78 Resident-87 Resident-91 Resident-92
+Hospital-73 : 6 : Resident-1 Resident-7 Resident-11 Resident-49 Resident-81 Resident-88 Resident-90 Resident-91 Resident-92
+Hospital-74 : 4 : Resident-5 Resident-6 Resident-22 Resident-46 Resident-55 Resident-64 Resident-75 Resident-82 Resident-93
+Hospital-75 : 5 : Resident-4 Resident-18 Resident-21 Resident-30 Resident-34 Resident-38 Resident-45 Resident-49 Resident-59 Resident-66 Resident-81 Resident-91 Resident-92 Resident-96 Resident-97 Resident-98
+Hospital-76 : 1 : Resident-3 Resident-5 Resident-49 Resident-56 Resident-65 Resident-72 Resident-83 Resident-86
+Hospital-77 : 2 : Resident-13 Resident-18 Resident-21 Resident-29 Resident-44 Resident-67 Resident-85
+Hospital-78 : 4 : Resident-24 Resident-28 Resident-35 Resident-69 Resident-80 Resident-82 Resident-93 Resident-97
+Hospital-79 : 3 : Resident-21 Resident-31 Resident-36 Resident-48 Resident-54 Resident-55 Resident-65 Resident-66 Resident-98
+Hospital-80 : 9 : Resident-36 Resident-45 Resident-55 Resident-60 Resident-96 Resident-99
+Hospital-81 : 3 : Resident-39 Resident-40 Resident-51 Resident-56 Resident-63 Resident-67 Resident-69 Resident-70 Resident-75 Resident-80 Resident-92
+Hospital-82 : 6 : Resident-17 Resident-30 Resident-31 Resident-33 Resident-40 Resident-45 Resident-46 Resident-49 Resident-55 Resident-66 Resident-89 Resident-93 Resident-99
+Hospital-83 : 7 : Resident-7 Resident-8 Resident-24 Resident-30 Resident-35 Resident-45 Resident-48
+Hospital-84 : 8 : Resident-12 Resident-13 Resident-33 Resident-50 Resident-56 Resident-67 Resident-70 Resident-73 Resident-81 Resident-95
+Hospital-85 : 9 : Resident-3 Resident-22 Resident-34 Resident-40 Resident-41 Resident-42 Resident-45 Resident-50 Resident-52 Resident-61 Resident-67 Resident-84 Resident-89
+Hospital-86 : 2 : Resident-7 Resident-13 Resident-16 Resident-41 Resident-75 Resident-86 Resident-97
+Hospital-87 : 3 : Resident-20 Resident-39 Resident-42 Resident-58 Resident-70 Resident-75 Resident-86 Resident-90
+Hospital-88 : 5 : Resident-20 Resident-71 Resident-73 Resident-80 Resident-97
+Hospital-89 : 3 : Resident-13 Resident-28 Resident-34 Resident-73 Resident-74 Resident-84 Resident-85
+Hospital-90 : 5 : Resident-0 Resident-16 Resident-28 Resident-36 Resident-37 Resident-41 Resident-47 Resident-63 Resident-70 Resident-71 Resident-86 Resident-91 Resident-96
+Hospital-91 : 6 : Resident-0 Resident-24 Resident-25 Resident-29 Resident-42 Resident-52 Resident-82 Resident-91 Resident-92 Resident-95
+Hospital-92 : 6 : Resident-22 Resident-31 Resident-43 Resident-48 Resident-54 Resident-67 Resident-82 Resident-85
+Hospital-93 : 5 : Resident-4 Resident-5 Resident-8 Resident-27 Resident-29 Resident-35 Resident-44 Resident-57 Resident-61 Resident-68 Resident-80
+Hospital-94 : 5 : Resident-6 Resident-11 Resident-17 Resident-46 Resident-71 Resident-83 Resident-84 Resident-97 Resident-98
+Hospital-95 : 6 : Resident-8 Resident-19 Resident-26 Resident-37 Resident-43 Resident-46 Resident-48 Resident-69 Resident-77 Resident-88
+Hospital-96 : 7 : Resident-11 Resident-16 Resident-32 Resident-57 Resident-59 Resident-78 Resident-89
+Hospital-97 : 10 : Resident-0 Resident-37 Resident-40 Resident-46 Resident-51 Resident-53 Resident-71 Resident-77 Resident-83 Resident-91
+Hospital-98 : 1 : Resident-11 Resident-13 Resident-23 Resident-27 Resident-35 Resident-36 Resident-64 Resident-70 Resident-90
+Hospital-99 : 5 : Resident-12 Resident-25 Resident-42 Resident-50 Resident-54 Resident-66 Resident-69 Resident-81
