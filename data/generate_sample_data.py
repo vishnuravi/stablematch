@@ -34,12 +34,12 @@ def main():
 	hospitalListOutput = ''
 
 	#pref lists
-	resident_prefs = [[] for _ in xrange(total_residents)]
-	hospital_prefs = [[] for _ in xrange(total_hospitals)]
+	resident_prefs = [[] for _ in range(total_residents)]
+	hospital_prefs = [[] for _ in range(total_hospitals)]
 
 
 
-	print "\nGenerating Resident Rank Order Lists..."
+	print("\nGenerating Resident Rank Order Lists...");
 
 	#residents 'apply' to hospitals
 	for this_resident in range(total_residents):
@@ -47,15 +47,15 @@ def main():
 			hospitals_randomized = list(range(total_hospitals))
 			random.shuffle(hospitals_randomized)
 			this_resident_rol_len = int(random.normalvariate(resident_rol_len, resident_rol_sd))
-			for n in xrange(this_resident_rol_len):
+			for n in range(this_resident_rol_len):
 				resident_prefs[this_resident].append(hospitals_randomized.pop())
 
 			residentListOutput += resident_prefix + str(this_resident) + " :"
-			for rank in xrange(len(resident_prefs[this_resident])):
+			for rank in range(len(resident_prefs[this_resident])):
 				residentListOutput += " " + hospital_prefix  + str(resident_prefs[this_resident][rank])
 			residentListOutput += '\n'
 
-	print "\nGenerating Hospital Rank Order Lists..."
+	print("\nGenerating Hospital Rank Order Lists...");
 
 	#hospitals rank residents that have 'applied'
 	for this_hospital in range(total_hospitals):
@@ -68,7 +68,7 @@ def main():
 			this_hospital_num_positions = int(random.normalvariate(hospital_num_positions, hospital_num_positions_sd))
 			hospitalListOutput += hospital_prefix + str(this_hospital) + " : " + str(this_hospital_num_positions) + " :"
 			this_hospital_num_ranks = len(hospital_prefs[this_hospital])
-			for rank in xrange(this_hospital_num_ranks):
+			for rank in range(this_hospital_num_ranks):
 				hospitalListOutput += " " + resident_prefix + str(hospital_prefs[this_hospital][rank])
 			hospitalListOutput += '\n'
 
@@ -82,7 +82,7 @@ def main():
 	datafile.write(output)
 	datafile.close()
 
-	print "\nDataset generation complete.\n"
+	print("\nDataset generation complete.\n");
 
 def update_progress(progress):
 	'''Generates a progress bar'''
